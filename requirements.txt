@@ -7,9 +7,9 @@ anyio==4.3.0
 attrs==23.2.0
 bcrypt==4.1.2
 beautifulsoup4==4.12.3
-botasaurus==4.0.9
-botasaurus-proxy-authentication==1.0.12
-botocore==1.34.51
+# botasaurus==4.0.9
+# botasaurus-proxy-authentication==1.0.12
+# botocore==1.34.51
 capsolver-extension-python==1.0.1
 certifi==2024.2.2
 cffi==1.16.0
@@ -59,8 +59,8 @@ pytz==2024.1
 requests==2.31.0
 requests-toolbelt==1.0.0
 rsa==4.9
-s3fs==2024.2.0
-selenium==4.5.0
+# s3fs==2024.2.0
+# selenium==4.5.0
 six==1.16.0
 sniffio==1.3.1
 sortedcontainers==2.4.0
