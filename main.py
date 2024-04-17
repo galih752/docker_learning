@@ -13,7 +13,7 @@ app = FastAPI(
     version='1.0.0'
 )
 
-app.include_router(login,prefix='/token', tags=["Login"])
+# app.include_router(login,prefix='/token', tags=["Login"])
 app.include_router(dkr,prefix='/dkr', tags=["Dewan Kerja Ranting"])
 app.include_router(sch,prefix='/school', tags=["Schools"])
 app.include_router(dapot, prefix='/dapot', tags=["Data Potensi"])
